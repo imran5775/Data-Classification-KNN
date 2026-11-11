@@ -40,7 +40,7 @@ Setosa is classified perfectly. The only mistakes are two virginica flowers pred
 
 | Choosing K | Confusion matrix |
 |---|---|
-| ![K selection](images/k_selection.png) | ![Confusion matrix](images/confusion_matrix.png) |
+| ![K selection](k_selection.png) | ![Confusion matrix](confusion_matrix.png) |
 
 Exact numbers can differ slightly with another random seed or a different scikit-learn version.
 
